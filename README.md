@@ -1,6 +1,6 @@
 # Ultracode
 
-Version: `0.0.1`
+Version: `2.0.0`
 
 Ultracode is a multi-agent orchestration skill for Codex. It turns a substantive
 coding task into a controlled workflow with separate discovery, challenge,

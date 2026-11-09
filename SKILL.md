@@ -2,7 +2,7 @@
 name: ultracode
 description: Multi-agent orchestration mode. Use when the prompt contains the word "ultracode" (or ultracode standing mode is on) for any substantive task. Small scouts read and report with file:line evidence, big-model skeptics cross-check the scout findings, executors implement on disjoint files, then one big-model verifier per executor reviews, advises and fixes exactly that executor's files, a final gate runs the tests (or a read-only review), then a synthesis. Runs at whatever reasoning effort the session already uses; every role inherits the session's model and effort unless configured.
 metadata:
-  version: "2.0.0"
+  version: "0.0.1"
 ---
 
 # ultracode

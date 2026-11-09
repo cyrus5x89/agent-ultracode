@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ultracode"
+  short_description: "Scouts, checked evidence, executors, review-and-fix verifiers, a test gate and synthesis at your current effort"
+  default_prompt: "Use $ultracode to orchestrate this task: scout, cross-check findings, execute on disjoint files, review and fix each change, run the final gate, synthesize."
+policy:
+  allow_implicit_invocation: true
